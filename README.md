@@ -42,7 +42,7 @@ Uso livre para fins educacionais e pessoais.
 
 ---
 
-Desenvolvido por João Pedro.# 🎧 Portal de Áudio Interativo
+Desenvolvido por Largatixa# 🎧 Portal de Áudio Interativo
 
 Este projeto é uma página web que exibe um portal 3D interativo e responsivo, criado com [Three.js](https://threejs.org/), que reage em tempo real ao áudio capturado do microfone do usuário. O visual do portal pode ser personalizado e ajustado via painel de controle.
 
@@ -83,3 +83,4 @@ Este projeto é uma página web que exibe um portal 3D interativo e responsivo, 
 ## Licença
 
 Uso livre para fins educacionais e pessoais.
+
